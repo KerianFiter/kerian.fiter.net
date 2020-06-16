@@ -1,8 +1,3 @@
----
-post_title: 'Readme test'
-layout: post
-published: true
----
-Post goes here.
+# What is this?
 
-??
+I am trying to sync GitHub and my website at https://kerian.fiter.net.
