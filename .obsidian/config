@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2017-09-01-the-game-development-of-colored.md",
+            "file": "_posts/Testing.md",
             "mode": "source"
           }
         }
@@ -83,9 +83,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2017-09-01-the-game-development-of-colored.md",
+    "_posts/Testing.md",
+    "_posts/2020-04-30-wordup-app.md",
+    "_posts/Untitled.md",
     "Untitled.md",
-    "README.md"
+    "_posts/2017-09-01-the-game-development-of-colored.md"
   ],
   "promptDelete": false
 }
