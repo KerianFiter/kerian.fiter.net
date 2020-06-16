@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "This is just a test.md",
+            "file": "_posts/2017-09-01-the-game-development-of-colored.md",
             "mode": "source"
           }
         }
@@ -83,6 +83,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2017-09-01-the-game-development-of-colored.md",
     "Untitled.md",
     "README.md"
   ],
