@@ -1,3 +1,6 @@
-Yup, abandonned Mytory Markdown.
-
-[[This is just a test]]
+---
+post_title: 'Readme test'
+layout: post
+published: false
+---
+Post goes here.
