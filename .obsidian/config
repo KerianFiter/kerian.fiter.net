@@ -31,10 +31,8 @@
         "id": "0236f1fee94c9a5e",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "_pages/obsidian header.png"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,10 +92,10 @@
   },
   "lastOpenFiles": [
     "_pages/obsidian.md",
-    "template.md",
-    "obsheader.png",
-    "media/Pasted image.png",
-    "obsidian banner.png"
+    "_pages/wiki.md",
+    "README.md",
+    "download.png",
+    "template.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
