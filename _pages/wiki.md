@@ -16,7 +16,7 @@ This is my personal wiki, that I am sharing publicly.
 
 <!-- wp:paragraph -->
 
-Check out [[README]] to know the details.
+Check out [[readme|README]] to know the details.
 
 <!-- /wp:paragraph -->
 
@@ -25,6 +25,8 @@ Check out [[README]] to know the details.
 ## All wiki pages (recent first)
 
 <!-- /wp:heading -->
+
+
 
 <!-- wp:shortcode --> [listchildpages aclass=”” ifempty=”No wiki entries” orderby=”publish_date” order=”desc” displayimage=”no”][/listchildpages] 
 
