@@ -16,7 +16,7 @@ This is my personal wiki, that I am sharing publicly.
 
 <!-- wp:paragraph -->
 
-Check out [[readme|README]] to know the details.
+It is under construction...
 
 <!-- /wp:paragraph -->
 
