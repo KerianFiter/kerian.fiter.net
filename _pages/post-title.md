@@ -1,6 +1,6 @@
 ---
 ID: 1807
-post_title: Post Title 0
+post_title: Post Title
 author: Kérian Fiter
 post_excerpt: ""
 layout: page
