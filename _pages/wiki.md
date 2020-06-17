@@ -26,6 +26,6 @@ Check out [[README]] to know the details.
 
 <!-- /wp:heading -->
 
-<!-- wp:shortcode --> [listchildpages aclass=”” ifempty=”No wiki entries” orderby=”publish_date” order=”desc” displayimage=”no”][/listchildpages]
+<!-- wp:shortcode --> [listchildpages aclass=”” ifempty=”No wiki entries” orderby=”publish_date” order=”desc” displayimage=”no”][/listchildpages] 
 
 <!-- /wp:shortcode -->
