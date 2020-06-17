@@ -9,8 +9,8 @@ published: true
 post_date: 2020-06-17 17:58:44
 tags:
   - wiki
-categories
-  - wiki
+categories:
+  - Wiki
 ---
 [Obsidian][1] is a really cool tool for personal knowledge managment.
 
