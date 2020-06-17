@@ -20,5 +20,5 @@ It works on local markdown files and is basically free.
 
 This is the tool I'm using to write in this wiki right now.
 
- [1]: https://github.com/KerianFiter/kerian.fiter.net/blob/master/obsidian_banner.png?raw=true
+ [1]: https://github.com/KerianFiter/kerian.fiter.net/blob/master/media/obsidian_banner.png?raw=true
  [2]: https://obsidian.md/
