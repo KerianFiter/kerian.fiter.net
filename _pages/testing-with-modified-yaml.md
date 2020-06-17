@@ -9,6 +9,4 @@ permalink: >
 published: true
 post_date: 2020-06-17 11:59:30
 ---
-Test test test
-
-[[post-title]]
+Test test test [[post-title|Post Title]]
