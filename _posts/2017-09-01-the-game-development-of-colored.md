@@ -8,6 +8,10 @@ permalink: >
   https://kerian.fiter.net/the-game-development-of-colored/
 published: true
 post_date: 2017-09-01 21:00:30
+tags:
+  - game development
+categories:
+  - My Projects
 ---
 https://www.youtube.com/watch?v=44dPCyg7hAs
 

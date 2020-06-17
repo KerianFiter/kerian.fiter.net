@@ -7,6 +7,8 @@ layout: page
 permalink: https://kerian.fiter.net/wiki/
 published: true
 post_date: 2020-06-16 14:26:53
+tags: [ ]
+categories: [ ]
 ---
 <!-- wp:paragraph -->
 
@@ -16,7 +18,7 @@ This is my personal wiki, that I am sharing publicly.
 
 <!-- wp:paragraph -->
 
-Check out [[README]] to know the details.
+It is under construction...
 
 <!-- /wp:paragraph -->
 
@@ -26,6 +28,4 @@ Check out [[README]] to know the details.
 
 <!-- /wp:heading -->
 
-<!-- wp:shortcode --> [listchildpages aclass=”” ifempty=”No wiki entries” orderby=”publish_date” order=”desc” displayimage=”no”][/listchildpages] 
-
-<!-- /wp:shortcode -->
+<!-- wp:uagb/post-masonry {"block_id":"f8e6226f-87e8-4115-a91c-13114e388d1e","categories":"26","taxonomyType":"post_tag","postsToShow":100,"displayPostAuthor":false,"displayPostComment":false} /-->

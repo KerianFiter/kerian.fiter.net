@@ -8,6 +8,13 @@ permalink: >
   https://kerian.fiter.net/how-to-make-3d-models/
 published: true
 post_date: 2019-04-04 14:42:57
+tags:
+  - 3D
+  - blender
+  - modeling
+  - tutorial
+categories:
+  - Blog
 ---
 <!-- wp:heading -->
 

@@ -8,6 +8,12 @@ permalink: >
   https://kerian.fiter.net/3d-modeling-of-a-kar-98k/
 published: true
 post_date: 2018-08-18 12:02:46
+tags:
+  - 3D
+  - blender
+  - modeling
+categories:
+  - My Projects
 ---
 <!-- wp:html -->
 

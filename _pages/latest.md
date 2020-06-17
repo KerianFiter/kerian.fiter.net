@@ -7,4 +7,6 @@ layout: page
 permalink: https://kerian.fiter.net/latest/
 published: true
 post_date: 2019-11-18 19:22:11
+tags: [ ]
+categories: [ ]
 ---
