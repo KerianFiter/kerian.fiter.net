@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "pluginEnabledStatus": {
     "File explorer": true,
     "Search": true,
@@ -8,7 +8,8 @@
     "Backlinks": true,
     "Command palette": true,
     "Markdown format importer": true,
-    "Word count": true
+    "Word count": true,
+    "Custom CSS": true
   },
   "workspaceLayout": {
     "id": "d6f634a507c4a7be",
@@ -22,7 +23,7 @@
           "type": "markdown",
           "state": {
             "file": "_pages/post-title.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -84,10 +85,10 @@
   },
   "lastOpenFiles": [
     "_pages/post-title.md",
+    "_posts/2017-09-01-the-game-development-of-colored.md",
     "README.md",
     "Untitled.md",
-    "_pages/wiki.md",
-    "_posts/2020-02-23-roma-movie.md"
+    "_pages/wiki.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
