@@ -26,10 +26,4 @@ It is under construction...
 
 <!-- /wp:heading -->
 
-
-
-<!-- wp:shortcode --> [listchildpages aclass=”” ifempty=”No wiki entries” orderby=”publish_date” order=”desc” displayimage=”no”][/listchildpages] 
-
-<!-- /wp:shortcode -->
-
 <!-- wp:uagb/post-grid {"block_id":"48feb1d3-2280-4893-854b-0d60fb6b884b","categories":"26","taxonomyType":"post_tag","postsToShow":500,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"paginationMarkup":"empty"} /-->
