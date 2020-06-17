@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-06-16-testing-something.md",
+            "file": "Template.md",
             "mode": "source"
           }
         }
@@ -83,11 +83,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
     "_posts/2020-06-16-testing-something.md",
     "_posts/Testing.md",
-    "_posts/2020-04-30-wordup-app.md",
-    "_posts/Untitled.md",
-    "Untitled.md"
+    "_posts/2020-04-30-wordup-app.md"
   ],
   "promptDelete": false
 }
