@@ -12,7 +12,7 @@ categories: [ ]
 ---
 <!-- wp:paragraph -->
 
-This is my personal wiki, that I am sharing publicly.
+This is my personal wiki, that I am sharing publicly. I'm using [[obsidian|Obsidian]] to write in it.
 
 <!-- /wp:paragraph -->
 
@@ -28,4 +28,4 @@ It is under construction...
 
 <!-- /wp:heading -->
 
-<!-- wp:uagb/post-masonry {"block_id":"f8e6226f-87e8-4115-a91c-13114e388d1e","categories":"26","taxonomyType":"post_tag","postsToShow":100,"displayPostAuthor":false,"displayPostComment":false} /-->
+<!-- wp:uagb/post-masonry {"block_id":"48dffafd-b228-48c7-842d-b6b2e35a13a2","categories":"26","taxonomyType":"post_tag","postsToShow":100,"displayPostAuthor":false,"displayPostComment":false} /-->
