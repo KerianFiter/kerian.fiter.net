@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Template.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -83,11 +83,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
-    "_posts/2020-06-16-testing-something.md",
-    "_posts/Testing.md",
-    "_posts/2020-04-30-wordup-app.md"
+    "_pages/wiki.md",
+    "_pages/post-title.md",
+    "_posts/2020-02-23-roma-movie.md",
+    "Untitled.md"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "foldHeading": true
 }
