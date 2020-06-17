@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template.md",
+            "file": "_pages/obsidian.md",
             "mode": "source"
           }
         }
@@ -33,7 +33,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "obsidian header.png"
+            "file": "_pages/obsidian header.png"
           }
         }
       }
@@ -93,8 +93,8 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "template.md",
     "_pages/obsidian.md",
+    "template.md",
     "obsheader.png",
     "media/Pasted image.png",
     "obsidian banner.png"
