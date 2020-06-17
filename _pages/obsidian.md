@@ -14,7 +14,7 @@ categories: [ ]
 
 ![][1]
 
-[Obsidian][2] is a really cool tool for personal knowledge management.
+![Obsidian][2] is a really cool tool for personal knowledge management.
 
 It works on local markdown files and is basically free.
 
