@@ -8,6 +8,10 @@ permalink: >
   https://kerian.fiter.net/music-production-dark-emission/
 published: true
 post_date: 2018-08-14 20:00:57
+tags:
+  - music
+categories:
+  - My Projects
 ---
 <!-- wp:html -->
 

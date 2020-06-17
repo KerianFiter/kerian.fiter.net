@@ -7,6 +7,8 @@ layout: page
 permalink: https://kerian.fiter.net/contact/
 published: true
 post_date: 2018-12-05 12:22:33
+tags: [ ]
+categories: [ ]
 ---
 <!-- wp:jetpack/contact-form {"subject":"Question from kerian.fiter.net","to":"kerian@fiter.net, kerian.fiter@gmail.com","hasFormSettingsSet":"yes"} -->
 

@@ -12,6 +12,9 @@ permalink: >
   https://kerian.fiter.net/anthologie-de-poemes/
 published: true
 post_date: 2019-02-28 20:44:13
+tags: [ ]
+categories:
+  - My Projects
 ---
 <!-- wp:shortcode -->
 

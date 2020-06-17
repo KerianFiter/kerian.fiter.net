@@ -7,6 +7,9 @@ layout: post
 permalink: https://kerian.fiter.net/wordup-app/
 published: true
 post_date: 2020-04-30 16:09:56
+tags: [ ]
+categories:
+  - Blog
 ---
 <!-- wp:paragraph -->
 
