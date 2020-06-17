@@ -4,6 +4,7 @@ post_title: Testing with modified YAML
 author: Kérian Fiter
 post_excerpt: ""
 layout: page
+tags: #wiki
 permalink: >
   https://kerian.fiter.net/testing-with-modified-yaml/
 published: true
