@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/post-title2.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -83,11 +83,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_pages/post-title2.md",
+    "README.md",
     "_pages/post-title.md",
+    "_pages/post-title2.md",
     "post-title1.md",
-    "_pages/testing-with-modified-yaml.md",
-    "_posts/2020-01-03-devlog-1-jazz-discovery.md"
+    "_pages/testing-with-modified-yaml.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
