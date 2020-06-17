@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/post-title.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -83,9 +83,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/post-title.md",
-    "Untitled.md",
     "README.md",
+    "Untitled.md",
+    "_pages/post-title.md",
     "_pages/wiki.md",
     "_posts/2020-02-23-roma-movie.md"
   ],
