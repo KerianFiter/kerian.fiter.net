@@ -17,6 +17,6 @@ It works on local markdown files and is basically free.
 
 This is the tool I'm using to write in this wiki right now.
 
-![[obsidian banner.png]]
+[Obsidian header](obsidian%20header.png)
 
  [1]: https://obsidian.md/

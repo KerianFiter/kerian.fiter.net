@@ -18,22 +18,22 @@
       {
         "id": "38331c707e58876d",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/obsidian.md",
+            "file": "template.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "c3d683d1ac9624d4",
+        "id": "0236f1fee94c9a5e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "image",
           "state": {
-            "file": "obsidian banner.png"
+            "file": "obsidian header.png"
           }
         }
       }
@@ -93,15 +93,16 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Pasted image.png",
-    "_pages/obsidian.md",
-    "obsidian.css.md",
     "template.md",
-    "Obsidian md.md"
+    "_pages/obsidian.md",
+    "obsheader.png",
+    "media/Pasted image.png",
+    "obsidian banner.png"
   ],
   "promptDelete": false,
   "showLineNumber": true,
   "foldIndent": true,
   "foldHeading": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "media"
 }
