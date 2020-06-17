@@ -11,7 +11,6 @@ tags:
   - wiki
 categories: [ ]
 ---
-
 ![][1]
 
 [Obsidian][2] is a really cool tool for personal knowledge management.
