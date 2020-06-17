@@ -12,4 +12,4 @@ tags:
   - wiki
 categories: [ ]
 ---
-Test test test [[post-title|Post Title]]
+Test test test [[post-title1|Post Title]]

@@ -1,5 +1,5 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "pluginEnabledStatus": {
     "File explorer": true,
     "Search": true,
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/post-title.md",
-            "mode": "preview"
+            "file": "_pages/wiki.md",
+            "mode": "source"
           }
         }
       }
@@ -80,18 +80,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "_pages/post-title.md",
-    "_posts/2017-09-01-the-game-development-of-colored.md",
-    "README.md",
-    "Untitled.md",
-    "_pages/wiki.md"
+    "_pages/wiki.md",
+    "_pages/post-title1.md",
+    "_pages/testing-with-modified-yaml.md",
+    "Importing from GitHub.md",
+    "_pages/post-title.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
   "foldIndent": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "alwaysUpdateLinks": true
 }
