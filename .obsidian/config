@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/post-title.md",
+            "file": "_pages/testing-with-modified-yaml.md",
             "mode": "source"
           }
         }
@@ -83,11 +83,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_pages/post-title.md",
+    "_pages/wiki.md",
     "_pages/testing-with-modified-yaml.md",
-    "README.md",
-    "_pages/post-title2.md",
-    "post-title1.md"
+    "Importing from GitHub.md",
+    "_pages/post-title.md",
+    "README.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
