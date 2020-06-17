@@ -1,6 +1,6 @@
 ---
 ID: 1807
-post_title: Post Title
+post_title: Post Title 3
 author: Kérian Fiter
 post_excerpt: ""
 layout: page
@@ -9,8 +9,6 @@ published: true
 post_date: 2020-06-17 11:41:25
 tags:
   - wiki
-  - test
-categories:
-  - blog
+categories: [ ]
 ---
 Post goes here.
