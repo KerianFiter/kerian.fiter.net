@@ -10,7 +10,7 @@ post_date: 2020-06-17 11:41:25
 tags:
   - wiki
   - test
-categories: [ ]
-
+categories:
+  - blog
 ---
 Post goes here.
