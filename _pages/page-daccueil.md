@@ -1,6 +1,6 @@
 ---
 ID: 1889
-post_title: 'Page d&#8217;accueil'
+post_title: Accueil
 author: Kérian Fiter
 post_excerpt: ""
 layout: page
