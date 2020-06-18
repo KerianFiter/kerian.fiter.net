@@ -37,7 +37,7 @@ categories: [ ]
         
         <div class="uagb-ifb-text-wrap">
           <p class="uagb-ifb-desc">
-            French student | 2002 | Still 🔍
+            French student | 2002
           </p>
         </div>
       </div>
