@@ -4,11 +4,12 @@ post_title: 'WordUp: une excellente application pour apprendre du vocabulaire an
 author: Kérian Fiter
 post_excerpt: ""
 layout: post
-permalink: https://kerian.fiter.net/fr/wordup-app/
+permalink: https://kerian.fiter.net/wordup-app/
 published: true
 post_date: 2020-04-30 16:09:56
 tags: [ ]
-categories: [ ]
+categories:
+  - Uncategorized
 ---
 <!-- wp:paragraph -->
 
