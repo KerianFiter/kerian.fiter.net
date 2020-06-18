@@ -9,12 +9,11 @@ post_excerpt: >
   written in French.
 layout: post
 permalink: >
-  https://kerian.fiter.net/anthologie-de-poemes/
+  https://kerian.fiter.net/fr/anthologie-de-poemes/
 published: true
 post_date: 2019-02-28 20:44:13
 tags: [ ]
-categories:
-  - My Projects
+categories: [ ]
 ---
 <!-- wp:shortcode -->
 
