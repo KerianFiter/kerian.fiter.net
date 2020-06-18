@@ -10,9 +10,9 @@ post_date: 2020-06-18 13:46:09
 tags: [ ]
 categories: [ ]
 ---
-<!-- wp:uagb/info-box {"classMigrate":true,"source_type":"image","block_id":"d577a064-0d06-4401-a068-85a831b84b1f","iconImage":{"id":852,"title":"photo profil round transparent","filename":"photo-profil-round-transparent-e1574192581403.png","url":"https://kerian.fiter.net/wp-content/uploads/2019/04/photo-profil-round-transparent-e1574192581403.png","link":"https://kerian.fiter.net/about__trashed/photo-profil-round-transparent/","alt":"","author":"1","description":"","caption":"","name":"photo-profil-round-transparent","status":"inherit","uploadedTo":827,"date":"2019-04-01T18:21:45.000Z","modified":"2019-11-19T19:43:06.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://kerian.fiter.net/wp-includes/images/media/default.png","dateFormatted":"1st April 2019","nonces":{"update":"c204302d9e","delete":"8bab15589a","edit":"dad62d16aa"},"editLink":"https://kerian.fiter.net/wp-admin/post.php?post=852u0026action=edit","meta":false,"authorName":"Ku00e9rian Fiter","uploadedToLink":"https://kerian.fiter.net/wp-admin/post.php?post=827u0026action=edit","uploadedToTitle":"About","filesizeInBytes":60074,"filesizeHumanReadable":"59 KB","context":"","height":200,"width":200,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://kerian.fiter.net/wp-content/uploads/2019/04/photo-profil-round-transparent-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://kerian.fiter.net/wp-content/uploads/2019/04/photo-profil-round-transparent-300x300.png","orientation":"landscape"},"full":{"url":"https://kerian.fiter.net/wp-content/uploads/2019/04/photo-profil-round-transparent-e1574192581403.png","height":200,"width":200,"orientation":"landscape"}},"compat":{"item":"","meta":""},"acf_errors":false},"showPrefix":false} -->
+<!-- wp:uagb/info-box {"classMigrate":true,"source_type":"image","block_id":"424ca075-2550-4245-94e2-dbe7210e26ca","iconImage":{"id":852,"title":"photo profil round transparent","filename":"photo-profil-round-transparent-e1574192581403.png","url":"https://kerian.fiter.net/wp-content/uploads/2019/04/photo-profil-round-transparent-e1574192581403.png","link":"https://kerian.fiter.net/about__trashed/photo-profil-round-transparent/","alt":"","author":"1","description":"","caption":"","name":"photo-profil-round-transparent","status":"inherit","uploadedTo":827,"date":"2019-04-01T18:21:45.000Z","modified":"2019-11-19T19:43:06.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://kerian.fiter.net/wp-includes/images/media/default.png","dateFormatted":"1st April 2019","nonces":{"update":"c204302d9e","delete":"8bab15589a","edit":"dad62d16aa"},"editLink":"https://kerian.fiter.net/wp-admin/post.php?post=852u0026action=edit","meta":false,"authorName":"Ku00e9rian Fiter","uploadedToLink":"https://kerian.fiter.net/wp-admin/post.php?post=827u0026action=edit","uploadedToTitle":"About","filesizeInBytes":60074,"filesizeHumanReadable":"59 KB","context":"","height":200,"width":200,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://kerian.fiter.net/wp-content/uploads/2019/04/photo-profil-round-transparent-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://kerian.fiter.net/wp-content/uploads/2019/04/photo-profil-round-transparent-300x300.png","orientation":"landscape"},"full":{"url":"https://kerian.fiter.net/wp-content/uploads/2019/04/photo-profil-round-transparent-e1574192581403.png","height":200,"width":200,"orientation":"landscape"}},"compat":{"item":"","meta":""},"acf_errors":false},"showPrefix":false} -->
 
-<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-d577a064-0d06-4401-a068-85a831b84b1f">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-424ca075-2550-4245-94e2-dbe7210e26ca">
   <div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-image uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius ">
     <div class="uagb-ifb-left-right-wrap">
       <div class="uagb-ifb-content">
@@ -47,9 +47,9 @@ categories: [ ]
 
 <!-- /wp:uagb/info-box -->
 
-<!-- wp:uagb/call-to-action {"classMigrate":true,"block_id":"e879df46-39c6-4111-977a-39029905d5db","ctaText":"View English content","ctaLink":"https://kerian.fiter.net"} -->
+<!-- wp:uagb/call-to-action {"classMigrate":true,"block_id":"2b3b28cd-802e-49b8-bf5a-620a4dc9e364","ctaText":"Voir le contenu anglais","ctaLink":"https://kerian.fiter.net"} -->
 
-<div class="uagb-cta__outer-wrap uagb-block-e879df46-39c6-4111-977a-39029905d5db">
+<div class="uagb-cta__outer-wrap uagb-block-2b3b28cd-802e-49b8-bf5a-620a4dc9e364">
   <div class="uagb-cta__content-wrap uagb-cta__block uagb-cta__icon-position-right uagb-cta__content-right uagb-cta__content-stacked-tablet uagb-cta__button-valign-middle ">
     <div class="uagb-cta__left-right-wrap">
       <div class="uagb-cta__content">
@@ -68,7 +68,7 @@ categories: [ ]
       
       <div class="uagb-cta__link-wrapper uagb-cta__block-link-style">
         <div class="uagb-cta__button-wrapper">
-          <a href="https://kerian.fiter.net" class="uagb-cta__block-link uagb-cta__button-link-wrapper uagb-cta-typeof-button" target="_self" rel="noopener noreferrer"><span class="uagb-cta__link-content-inner"><span>View English content</span></span></a>
+          <a href="https://kerian.fiter.net" class="uagb-cta__block-link uagb-cta__button-link-wrapper uagb-cta-typeof-button" target="_self" rel="noopener noreferrer"><span class="uagb-cta__link-content-inner"><span>Voir le contenu anglais</span></span></a>
         </div>
       </div>
     </div>
@@ -90,7 +90,7 @@ categories: [ ]
 
 <!-- /wp:heading -->
 
-<!-- wp:uagb/post-timeline {"categories":"","postsToShow":100,"displayPostAuthor":false,"readMoreText":"Continuer à lire","block_id":"035cfcf3-1f92-4e8f-a424-9bd0e7b4fee8"} /-->
+<!-- wp:uagb/post-timeline {"categories":"","postsToShow":100,"displayPostAuthor":false,"readMoreText":"Continuer à lire","block_id":"dc94f99b-3e87-4051-8658-07a262e1b091"} /-->
 
 <!-- wp:separator -->
 
@@ -98,9 +98,9 @@ categories: [ ]
 
 <!-- /wp:separator -->
 
-<!-- wp:uagb/call-to-action {"classMigrate":true,"block_id":"23f503cb-3ca7-4795-9bbc-ae4de86d2b1c","ctaText":"Me contacter","ctaLink":"mailto:kerian@fiter.net"} -->
+<!-- wp:uagb/call-to-action {"classMigrate":true,"block_id":"102e6d8d-d47f-4799-9f48-dd8fcbdf58d3","ctaText":"Me contacter","ctaLink":"mailto:kerian@fiter.net"} -->
 
-<div class="uagb-cta__outer-wrap uagb-block-23f503cb-3ca7-4795-9bbc-ae4de86d2b1c">
+<div class="uagb-cta__outer-wrap uagb-block-102e6d8d-d47f-4799-9f48-dd8fcbdf58d3">
   <div class="uagb-cta__content-wrap uagb-cta__block uagb-cta__icon-position-right uagb-cta__content-right uagb-cta__content-stacked-tablet uagb-cta__button-valign-middle ">
     <div class="uagb-cta__left-right-wrap">
       <div class="uagb-cta__content">
