@@ -26,7 +26,7 @@ categories: [ ]
         
         <div class="uagb-ifb-title-wrap">
           <h3 class="uagb-ifb-title">
-            Salut! Je suis Kérian
+            Bonjour! Je suis Kérian
           </h3>
         </div>
         
