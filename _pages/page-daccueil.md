@@ -47,4 +47,10 @@ categories: [ ]
 
 <!-- /wp:uagb/info-box -->
 
+<!-- wp:heading -->
+
+## Derniers projets & articles
+
+<!-- /wp:heading -->
+
 <!-- wp:block {"ref":1904} /-->
