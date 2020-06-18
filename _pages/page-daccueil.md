@@ -61,7 +61,7 @@ categories: [ ]
 
 <!-- /wp:separator -->
 
-<!-- wp:uagb/call-to-action {"classMigrate":true,"textAlign":"center","block_id":"7a570263-2380-42fe-87d2-7fa939c065d5","ctaText":"Me contacter","ctaLink":"mailto:kerian@fiter.net"} -->
+<!-- wp:uagb/call-to-action {"classMigrate":true,"block_id":"7a570263-2380-42fe-87d2-7fa939c065d5","ctaText":"Me contacter","ctaLink":"mailto:kerian@fiter.net"} -->
 
 <div class="uagb-cta__outer-wrap uagb-block-7a570263-2380-42fe-87d2-7fa939c065d5">
   <div class="uagb-cta__content-wrap uagb-cta__block uagb-cta__icon-position-right uagb-cta__content-right uagb-cta__content-stacked-tablet uagb-cta__button-valign-middle ">
@@ -75,7 +75,7 @@ categories: [ ]
         
         <div class="uagb-cta-text-wrap">
           <p class="uagb-cta__desc">
-            Vous ne seriez pas quand même pas allé jusqu'ici pour rien ?
+            Vous ne seriez pas quand même pas allé si loin pour rien ?
           </p>
         </div>
       </div>
