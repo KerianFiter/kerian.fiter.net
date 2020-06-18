@@ -8,13 +8,10 @@ permalink: https://kerian.fiter.net/roma-movie/
 published: true
 post_date: 2020-02-23 12:55:38
 tags:
-  - alfonso cuaron
-  - meaning
   - movie
   - philosophy
-  - roma
 categories:
-  - Blog
+  - Blog en
 ---
 <!-- wp:paragraph -->
 
