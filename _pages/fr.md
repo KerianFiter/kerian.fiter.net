@@ -47,7 +47,7 @@ categories: [ ]
 
 <!-- /wp:uagb/info-box -->
 
-<!-- wp:uagb/call-to-action {"classMigrate":true,"block_id":"e879df46-39c6-4111-977a-39029905d5db","ctaText":"View English content"} -->
+<!-- wp:uagb/call-to-action {"classMigrate":true,"block_id":"e879df46-39c6-4111-977a-39029905d5db","ctaText":"View English content","ctaLink":"https://kerian.fiter.net"} -->
 
 <div class="uagb-cta__outer-wrap uagb-block-e879df46-39c6-4111-977a-39029905d5db">
   <div class="uagb-cta__content-wrap uagb-cta__block uagb-cta__icon-position-right uagb-cta__content-right uagb-cta__content-stacked-tablet uagb-cta__button-valign-middle ">
@@ -68,7 +68,7 @@ categories: [ ]
       
       <div class="uagb-cta__link-wrapper uagb-cta__block-link-style">
         <div class="uagb-cta__button-wrapper">
-          <a href="#" class="uagb-cta__block-link uagb-cta__button-link-wrapper uagb-cta-typeof-button" target="_self" rel="noopener noreferrer"><span class="uagb-cta__link-content-inner"><span>View English content</span></span></a>
+          <a href="https://kerian.fiter.net" class="uagb-cta__block-link uagb-cta__button-link-wrapper uagb-cta-typeof-button" target="_self" rel="noopener noreferrer"><span class="uagb-cta__link-content-inner"><span>View English content</span></span></a>
         </div>
       </div>
     </div>
