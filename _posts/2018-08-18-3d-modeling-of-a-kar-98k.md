@@ -18,8 +18,8 @@ categories:
 <!-- wp:html -->
 
 <div class="sketchfab-embed-wrapper">
-  <p style="font-size: 13px;font-weight: normal;margin: 5px;color: #4A4A4A">
-    <a href="https://sketchfab.com/3d-models/kar-98k-2696e0d5e90642a8988764ae6fc71f87?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold;color: #1CAAD9" rel="noopener noreferrer">Kar 98k</a> by <a href="https://sketchfab.com/kerian-fiter?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold;color: #1CAAD9" rel="noopener noreferrer">Kérian Fiter</a> on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold;color: #1CAAD9" rel="noopener noreferrer">Sketchfab</a>
+  <iframe title="A 3D model" width="1024" height="480" src="https://sketchfab.com/models/2696e0d5e90642a8988764ae6fc71f87/embed?autospin=0.2&autostart=1&preload=1&ui_controls=1&ui_infos=1&ui_inspector=1&ui_stop=1&ui_watermark=1&ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/3d-models/kar-98k-2696e0d5e90642a8988764ae6fc71f87?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;" rel="noopener noreferrer">Kar 98k</a> by <a href="https://sketchfab.com/kerian-fiter?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;" rel="noopener noreferrer">Kérian Fiter</a> on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;" rel="noopener noreferrer">Sketchfab</a>
   </p>
 </div>
 
