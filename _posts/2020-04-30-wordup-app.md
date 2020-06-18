@@ -9,7 +9,7 @@ published: true
 post_date: 2020-04-30 16:09:56
 tags: [ ]
 categories:
-  - Uncategorized
+  - Blog
 ---
 <!-- wp:paragraph -->
 
