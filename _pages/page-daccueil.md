@@ -61,8 +61,32 @@ categories: [ ]
 
 <!-- /wp:separator -->
 
-<!-- wp:paragraph -->
+<!-- wp:uagb/call-to-action {"classMigrate":true,"textAlign":"center","block_id":"7a570263-2380-42fe-87d2-7fa939c065d5","ctaText":"Me contacter","ctaLink":"mailto:kerian@fiter.net"} -->
 
+<div class="uagb-cta__outer-wrap uagb-block-7a570263-2380-42fe-87d2-7fa939c065d5">
+  <div class="uagb-cta__content-wrap uagb-cta__block uagb-cta__icon-position-right uagb-cta__content-right uagb-cta__content-stacked-tablet uagb-cta__button-valign-middle ">
+    <div class="uagb-cta__left-right-wrap">
+      <div class="uagb-cta__content">
+        <div class="uagb-cta__title-wrap">
+          <h3 class="uagb-cta__title">
+            Entrons en contact
+          </h3>
+        </div>
+        
+        <div class="uagb-cta-text-wrap">
+          <p class="uagb-cta__desc">
+            Vous ne seriez pas quand même pas allé jusqu'ici pour rien ?
+          </p>
+        </div>
+      </div>
+      
+      <div class="uagb-cta__link-wrapper uagb-cta__block-link-style">
+        <div class="uagb-cta__button-wrapper">
+          <a href="mailto:kerian@fiter.net" class="uagb-cta__block-link uagb-cta__button-link-wrapper uagb-cta-typeof-button" target="_self" rel="noopener noreferrer"><span class="uagb-cta__link-content-inner"><span>Me contacter</span></span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-
-<!-- /wp:paragraph -->
+<!-- /wp:uagb/call-to-action -->
