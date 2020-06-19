@@ -26,7 +26,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_pages/anytype.md",
             "mode": "source"
           }
         }
@@ -104,9 +104,9 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_pages/anytype.md",
     "README.md",
     "template.md",
-    "_pages/anytype.md",
     "_pages/obsidian.md",
     "_pages/notion.md"
   ],

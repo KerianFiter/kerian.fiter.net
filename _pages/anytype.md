@@ -13,6 +13,8 @@ tags:
   - '#note-taking'
 categories: [ ]
 ---
+![Imgur](https://i.imgur.com/2xOOkVa.png)
+
 [Anytype][1] looks like a promising decentralized alternative to [[Notion]].
 
  [1]: https://anytype.io/
