@@ -12,7 +12,7 @@ categories: [ ]
 ---
 <!-- wp:paragraph -->
 
-This is my personal wiki, that I am sharing publicly. I'm using [[obsidian|Obsidian]] to write in it.
+This is my personal wiki, that I am sharing publicly. I'm using [[obsidian]] to write in it.
 
 <!-- /wp:paragraph -->
 
