@@ -8,9 +8,9 @@ permalink: https://kerian.fiter.net/obsidian/
 published: true
 post_date: 2020-06-17 17:58:44
 tags:
-  - #wiki
-  - #tool
-  - #note-taking
+  - '#wiki'
+  - '#tool'
+  - '#note-taking'
 categories: [ ]
 ---
 ![][1]

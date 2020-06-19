@@ -26,7 +26,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/anytype.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -104,11 +104,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_pages/anytype.md",
-    "_pages/jazz-hunt.md",
+    "README.md",
+    "_pages/obsidian.md",
     "_pages/notion.md",
-    "_pages/photography.md",
-    "_pages/photographie.md"
+    "_pages/anytype.md",
+    "_pages/jazz-hunt.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
