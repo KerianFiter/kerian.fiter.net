@@ -20,13 +20,13 @@
     "type": "split",
     "children": [
       {
-        "id": "38331c707e58876d",
+        "id": "034f558f226c20e3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/notion.md",
+            "file": "template.md",
             "mode": "source"
           }
         }
@@ -96,19 +96,18 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
-    "_pages/notion.md",
+    "template.md",
+    "IPFS.md",
     "_pages/anytype.md",
     "README.md",
-    "template.md",
-    "_pages/obsidian.md"
+    "_pages/notion.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,

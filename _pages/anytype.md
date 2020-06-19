@@ -17,4 +17,6 @@ categories: [ ]
 
 [Anytype][1] looks like a promising decentralized alternative to [[Notion]].
 
+It uses [[IPFS]].
+
  [1]: https://anytype.io/
