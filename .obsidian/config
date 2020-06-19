@@ -9,7 +9,11 @@
     "Command palette": true,
     "Markdown format importer": true,
     "Word count": true,
-    "Custom CSS": true
+    "Custom CSS": true,
+    "Tag pane": true,
+    "Page preview": true,
+    "Starred": true,
+    "Random note": true
   },
   "workspaceLayout": {
     "id": "d6f634a507c4a7be",
@@ -22,18 +26,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8df40e7a347026ee",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notion.md",
+            "file": "_pages/anytype.md",
             "mode": "source"
           }
         }
@@ -64,6 +57,14 @@
               "type": "search",
               "state": {}
             }
+          },
+          {
+            "id": "04eea1e6a9d50e87",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,19 +87,28 @@
               "type": "backlink",
               "state": {}
             }
+          },
+          {
+            "id": "4ac4ccea28799578",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
-    "README.md",
-    "anytype.md",
-    "Notion.md",
-    "Untitled.md",
-    "template.md"
+    "_pages/anytype.md",
+    "_pages/jazz-hunt.md",
+    "_pages/notion.md",
+    "_pages/photography.md",
+    "_pages/photographie.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
