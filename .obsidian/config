@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/obsidian.md",
+            "file": "_pages/testing-with-modified-yaml.md",
             "mode": "source"
           }
         }
@@ -83,11 +83,11 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_pages/testing-with-modified-yaml.md",
+    "_pages/wiki.md",
     "_pages/obsidian.md",
     "obsidian_banner.png",
-    "_pages/wiki.md",
-    "README.md",
-    "download.png"
+    "README.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
