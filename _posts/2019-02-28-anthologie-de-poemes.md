@@ -2,19 +2,15 @@
 ID: 586
 post_title: 'Anthologie de poèmes &#8211; Les cinq sens [FR]'
 author: Kérian Fiter
-post_excerpt: >
-   This is an anthology of poemes that I
-  made for school. The theme was the five
-  senses. Especially, this article will be
-  written in French.
+post_excerpt: ""
 layout: post
 permalink: >
-  https://kerian.fiter.net/anthologie-de-poemes/
+  https://kerian.fiter.net/fr/anthologie-de-poemes/
 published: true
 post_date: 2019-02-28 20:44:13
 tags: [ ]
 categories:
-  - My Projects
+  - Mes Projets
 ---
 <!-- wp:shortcode -->
 
