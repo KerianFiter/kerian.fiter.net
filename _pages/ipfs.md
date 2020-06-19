@@ -9,13 +9,10 @@ published: true
 post_date: 2020-06-19 21:08:59
 tags:
   - '#protocol'
-  - wiki
+  - '#wiki'
 categories: [ ]
 ---
-![Imgur][1]
-
-[IPFS website][2]
-
+![Imgur][1] [IPFS website][2] 
 ### What is it?
 
 > A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
