@@ -5,7 +5,7 @@ post_excerpt: ""
 layout: page
 published: true
 tags:
-  - wiki
+  - '#wiki'
 categories: [ ]
 
 ---
