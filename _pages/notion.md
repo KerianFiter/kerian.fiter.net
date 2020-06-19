@@ -16,4 +16,4 @@ categories: [ ]
 
 ![Imgur](https://i.imgur.com/q06Im2b.png)
 
-[Notion](https://notion.so)
+[Notion website](https://notion.so).
