@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-08-18 12:02:46
 tags:
-  - '#tool'
   - 3D
   - blender
   - modeling
