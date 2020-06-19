@@ -26,7 +26,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/ipfs.md",
+            "file": "template.md",
             "mode": "source"
           }
         }
@@ -103,11 +103,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_pages/ipfs.md",
     "template.md",
-    "IPFS.md",
-    "_pages/anytype.md",
-    "README.md"
+    "Untitled.md",
+    "README.md",
+    "_pages/ipfs.md",
+    "IPFS.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
