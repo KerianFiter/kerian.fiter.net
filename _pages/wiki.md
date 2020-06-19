@@ -28,4 +28,4 @@ It is under construction...
 
 <!-- /wp:heading -->
 
-<!-- wp:uagb/post-masonry {"block_id":"06e70c22-192f-4d68-b2fa-ef7ef20929bc","categories":"26","taxonomyType":"post_tag","postsToShow":100,"displayPostAuthor":false,"displayPostComment":false} /-->
+<!-- wp:uagb/post-masonry {"block_id":"eeb69ad3-1c2e-4fe0-a856-73187f68ec45","categories":"26","taxonomyType":"post_tag","postsToShow":100,"displayPostAuthor":false,"displayPostComment":false,"imgPosition":"background"} /-->
