@@ -8,7 +8,6 @@ permalink: https://kerian.fiter.net/ipfs/
 published: true
 post_date: 2020-06-19 21:08:59
 tags:
-  - '#protocol'
   - '#wiki'
 categories: [ ]
 ---
