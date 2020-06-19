@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template.md",
+            "file": "_pages/post-title.md",
             "mode": "source"
           }
         }
@@ -83,11 +83,11 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_pages/post-title.md",
     "template.md",
     "_pages/obsidian.md",
     "_pages/photography.md",
-    "_pages/testing-with-modified-yaml.md",
-    "_pages/post-title.md"
+    "_pages/testing-with-modified-yaml.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
