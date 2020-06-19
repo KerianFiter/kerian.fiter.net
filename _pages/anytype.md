@@ -8,9 +8,8 @@ permalink: https://kerian.fiter.net/anytype/
 published: true
 post_date: 2020-06-19 20:20:47
 tags:
-  - #note-taking
-  - #tool
-  - #wiki
+  - -
+  - '#test'
 categories: [ ]
 ---
 [Anytype][1] looks like a promising decentralized alternative to [[Notion]].
