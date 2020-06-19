@@ -18,7 +18,7 @@ This is my personal wiki, that I am sharing publicly. I'm using [[obsidian]] to 
 
 <!-- wp:paragraph -->
 
-It is under construction...
+You can check the <a href="https://github.com/KerianFiter/kerian.fiter.net" target="_blank" rel="noreferrer noopener">GitHub repository</a> where you can view this website in markdown files.
 
 <!-- /wp:paragraph -->
 
@@ -28,4 +28,4 @@ It is under construction...
 
 <!-- /wp:heading -->
 
-<!-- wp:uagb/post-masonry {"block_id":"c65ae061-871c-40d4-944f-802a40b7b348","categories":"26","taxonomyType":"post_tag","postsToShow":100,"displayPostAuthor":false,"displayPostComment":false,"displayPostImage":false,"imgPosition":"background","linkBox":false,"overlayOpacity":90} /-->
+<!-- wp:uagb/post-masonry {"block_id":"e36f2c50-10fb-47c3-a53b-f5acf009f517","categories":"26","taxonomyType":"post_tag","postsToShow":100,"displayPostAuthor":false,"displayPostComment":false,"displayPostImage":false,"imgPosition":"background","linkBox":false,"overlayOpacity":90} /-->
