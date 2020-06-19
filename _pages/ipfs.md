@@ -12,7 +12,7 @@ tags:
   - wiki
 categories: [ ]
 ---
-[Imgur][1]
+![Imgur][1]
 
 [IPFS website][2]
 
