@@ -13,4 +13,7 @@ tags:
   - '#note-taking'
 categories: [ ]
 ---
-An other note taking application.
+
+![Imgur](https://i.imgur.com/q06Im2b.png)
+
+[Notion](https://notion.so)
