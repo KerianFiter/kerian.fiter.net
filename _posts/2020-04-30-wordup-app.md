@@ -1,6 +1,6 @@
 ---
 ID: 1653
-post_title: 'WordUp: une excellente application pour apprendre du vocabulaire anglais [FR]'
+post_title: 'WordUp: Excellente Application Pour Le Vocabulaire Anglais'
 author: Kérian Fiter
 post_excerpt: ""
 layout: post
@@ -25,7 +25,7 @@ Une des raisons expliquant pourquoi cette application est si efficace est qu'ell
 
 <!-- wp:paragraph -->
 
-La meilleure façon de vous faire une idée de WordUp est de la tester, l'application étant gratuite et développée par une ONG. Je vous invite à suivre l'adresse suivante fournissant les liens de téléchargement ainsi que des informations complémentaires: [https://www.][1]<a rel="noreferrer noopener" href="https://www.wordupapp.co/" target="_blank">wordupapp</a>[.co/][1]. 
+La meilleure façon de vous faire une idée de WordUp est de la tester, l'application étant gratuite et développée par une ONG. Je vous invite à suivre l'adresse suivante fournissant les liens de téléchargement ainsi que des informations complémentaires: [https://www.][1]<a rel="noreferrer noopener" href="https://www.wordupapp.co/" target="_blank">wordupapp</a>[.co/][1].
 
 <!-- /wp:paragraph -->
 
