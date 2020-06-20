@@ -1,6 +1,6 @@
 ---
 ID: 1653
-post_title: 'WordUp: Excellente Application Pour Le Vocabulaire Anglais'
+post_title: 'WordUp: Excellente application pour le vocabulaire anglais'
 author: Kérian Fiter
 post_excerpt: ""
 layout: post
