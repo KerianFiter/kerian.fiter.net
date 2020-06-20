@@ -26,7 +26,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template.md",
+            "file": "_pages/dsound.md",
             "mode": "source"
           }
         }
@@ -103,11 +103,11 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_pages/dsound.md",
     "template.md",
     "DSound.md",
     "SoundCloud.md",
-    "Unrelated note.md",
-    "Untitled.md"
+    "Unrelated note.md"
   ],
   "promptDelete": false,
   "showLineNumber": true,
