@@ -14,7 +14,7 @@ tags:
   - music
 categories: [ ]
 ---
-![Imgur](https://imgur.com/HgP8mEG)
+![Imgur](https://imgur.com/HgP8mEG.png)
 
 [Dsound][1] is a decentralized sound platform, which looks like a lot like an alternative to [[SoundCloud]].
 
