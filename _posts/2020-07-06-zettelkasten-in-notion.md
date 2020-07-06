@@ -10,7 +10,9 @@ permalink: >
   https://kerian.fiter.net/zettelkasten-in-notion/
 published: true
 post_date: 2020-07-06 16:22:55
-tags: [ ]
+tags:
+  - '#note taking'
+  - '#zettelkasten'
 categories:
   - Blog
 ---
