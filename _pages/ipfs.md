@@ -10,6 +10,7 @@ post_date: 2020-06-19 21:08:59
 tags:
   - '#protocol'
   - '#wiki'
+  - '#decentralized'
 categories: [ ]
 ---
 ![Imgur][1] [IPFS website][2] 
