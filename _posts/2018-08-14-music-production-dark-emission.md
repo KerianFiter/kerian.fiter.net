@@ -9,13 +9,11 @@ permalink: >
 published: true
 post_date: 2018-08-14 20:00:57
 tags:
-  - music
+  - '#music'
 categories:
   - My Projects
 ---
-<!-- wp:html -->
-
-<!-- /wp:html -->
+<!-- wp:html /-->
 
 <!-- wp:paragraph -->
 
@@ -35,7 +33,7 @@ In the end, that was a very fun project to make that I really enjoyed doing and 
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":299,"align":"center"} -->
+<!-- wp:image {"align":"center","id":299} -->
 
 <div class="wp-block-image">
   <figure class="aligncenter"><img src="https://kerian.fiter.net/wp-content/uploads/2018/12/Screenshot_1.png" alt="" class="wp-image-299" /><figcaption>Screenshot of the full project in FL Studio</figcaption></figure>
