@@ -25,9 +25,9 @@ Let me quickly summarize what I learned during this journey so that you can lear
 
 <!-- /wp:paragraph -->
 
-<!-- wp:uagb/table-of-contents {"block_id":"b551f25c","classMigrate":true,"headerLinks":"[{\u0022tag\u0022:1,\u0022text\u0022:\u0022Choosing the tools\u0022,\u0022link\u0022:\u0022choosing-the-tools\u0022,\u0022content\u0022:\u0022Choosing the tools\u0022,\u0022level\u0022:0},{\u0022tag\u0022:1,\u0022text\u0022:\u0022Creating your system\u0022,\u0022link\u0022:\u0022creating-your-system\u0022,\u0022content\u0022:\u0022Creating your system\u0022,\u0022level\u0022:0},{\u0022tag\u0022:1,\u0022text\u0022:\u0022Conclusion\u0022,\u0022link\u0022:\u0022conclusion\u0022,\u0022content\u0022:\u0022Conclusion\u0022,\u0022level\u0022:0}]","customWidth":true} -->
+<!-- wp:uagb/table-of-contents {"block_id":"855bc555","classMigrate":true,"headerLinks":"[{\u0022tag\u0022:1,\u0022text\u0022:\u0022Choosing the tools\u0022,\u0022link\u0022:\u0022choosing-the-tools\u0022,\u0022content\u0022:\u0022Choosing the tools\u0022,\u0022level\u0022:0},{\u0022tag\u0022:1,\u0022text\u0022:\u0022Creating your system\u0022,\u0022link\u0022:\u0022creating-your-system\u0022,\u0022content\u0022:\u0022Creating your system\u0022,\u0022level\u0022:0},{\u0022tag\u0022:1,\u0022text\u0022:\u0022Conclusion\u0022,\u0022link\u0022:\u0022conclusion\u0022,\u0022content\u0022:\u0022Conclusion\u0022,\u0022level\u0022:0}]","customWidth":true} -->
 
-<div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-undefined uagb-block-b551f25c" data-scroll="true" data-offset="30" data-delay="800">
+<div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-undefined uagb-block-855bc555" data-scroll="true" data-offset="30" data-delay="800">
   <div class="uagb-toc__wrap">
     <div class="uagb-toc__title-wrap">
       <div class="uagb-toc__title">
@@ -97,7 +97,7 @@ Although I really liked it (and am still using it to this day), it obviously had
 <!-- wp:list -->
 
 *   I spent more time customizing than taking notes
-*   There is not yet (as of June 2020) an proper offline mode
+*   There is not yet (as of July 2020) an proper offline mode
 *   I had limited control over my data
 *   Does not have bi-directional linking (<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=-MNA-_zPNww" target="_blank">unless you do it in a clunky way</a>)
 
