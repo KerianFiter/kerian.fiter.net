@@ -7,7 +7,9 @@ layout: post
 permalink: https://kerian.fiter.net/note-taking/
 published: true
 post_date: 2020-07-17 21:00:00
-tags: [ ]
+tags:
+  - '#note taking'
+  - '#zettelkasten'
 categories:
   - Blog
 ---
