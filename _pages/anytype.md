@@ -8,15 +8,17 @@ permalink: https://kerian.fiter.net/anytype/
 published: true
 post_date: 2020-06-19 20:20:47
 tags:
-  - '#wiki'
+  - '#decentralized'
+  - '#note taking'
   - '#tool'
-  - '#note-taking'
+  - '#wiki'
 categories: [ ]
 ---
-![Imgur](https://i.imgur.com/2xOOkVa.png)
+![Imgur][1]
 
-[Anytype][1] looks like a promising decentralized alternative to [[Notion]].
+[Anytype][2] looks like a promising decentralized alternative to [[Notion]].
 
 It uses [[IPFS]].
 
- [1]: https://anytype.io/
+ [1]: https://i.imgur.com/2xOOkVa.png
+ [2]: https://anytype.io/
