@@ -12,7 +12,7 @@ categories: [ ]
 
 ---
 
-[Imgur](https://i.imgur.com/odi7B5h.png)
+![Imgur](https://i.imgur.com/odi7B5h.png)
 
 [Catcode](https://www.catcodeapp.com/) is a tool allowing you to connect your notes on paper to digital content.
 
