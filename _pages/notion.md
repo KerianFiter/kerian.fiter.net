@@ -16,4 +16,6 @@ categories: [ ]
 
 ![Imgur](https://i.imgur.com/q06Im2b.png)
 
-[Notion website](https://notion.so).
+[Notion](https://notion.so) is a powerful hierarchy-based note-taking tool.
+
+I find it really useful for storage purposes, such as saving articles with the [web clipper](https://www.notion.so/web-clipper).
