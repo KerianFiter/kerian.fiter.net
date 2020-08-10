@@ -72,6 +72,22 @@ I started out using <a rel="noreferrer noopener" href="https://notion.so" target
 
 <!-- /wp:paragraph -->
 
+<!-- wp:html -->
+
+<blockquote class="quoteback" data-title="Notion%20%E2%80%93%20The%20all-in-one%20workspace%20for%20your%20notes%2C%20tasks%2C%20wikis%2C%20and%20databases." data-author="@NotionHQ" cite="https://www.notion.so/">
+  <h1>
+    All-in-one workspace
+  </h1>
+  
+  <h2>
+    Write, plan, collaborate, and get organized — all in one tool.
+  </h2><footer>@NotionHQ 
+  
+  <cite> <a href="https://www.notion.so/">https://www.notion.so/</a></cite></footer>
+</blockquote>
+
+<!-- /wp:html -->
+
 <!-- wp:paragraph -->
 
 Although I really liked it (and am still using it to this day), it obviously had some flaws:
@@ -136,6 +152,22 @@ I then managed to try quite a few apps, that I will list here:
 What I ended up using is <a rel="noreferrer noopener" href="https://obsidian.md/" target="_blank">Obsidian</a>.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+
+<blockquote class="quoteback" data-title="Obsidian%3A%20A%20knowledge%20base%20that%20works%20on%20local%20Markdown%20files." data-author="@obsdmd" cite="https://obsidian.md/">
+  <h1 class="hero-headline">
+    A second brain,<br />for you, forever.
+  </h1>
+  
+  <p>
+    Obsidian is a powerful knowledge base that works on top of<br /> a local folder of plain text Markdown files.
+  </p><footer>@obsdmd 
+  
+  <cite> <a href="https://obsidian.md/">https://obsidian.md/</a></cite></footer>
+</blockquote>
+
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 
@@ -233,6 +265,14 @@ Now I tried using only Obsidian for note-taking, but what really worked for me w
 A comment of Dylan, on my <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=-MNA-_zPNww" target="_blank">Zettelkasten in Notion with Auto Footnote Backlinks</a> video, sums it up very well:
 
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+
+<blockquote class="quoteback" data-title="Zettelkasten%20in%20Notion%20with%20Auto%20Footnote%20Backlinks%20-%20YouTube" data-author="Dylan Modell" cite="https://www.youtube.com/watch?v=-MNA-_zPNww">
+  Notion is great for general note-taking and logging data about your life / team. But Obsidian is better for Zettels. I'm thinking about using Notion to collect notes and Obsidian to process them into permanent notes. <footer>Dylan Modell<cite> <a href="https://www.youtube.com/watch?v=-MNA-_zPNww">https://www.youtube.com/watch?v=-MNA-_zPNww/</a></cite></footer>
+</blockquote>
+
+<!-- /wp:html -->
 
 <!-- wp:heading {"level":1} -->
 
