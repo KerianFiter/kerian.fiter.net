@@ -16,17 +16,17 @@ tags:
 categories:
   - Blog
 ---
-<!-- wp:html --><figure>
+<!-- wp:html --><figure></figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-MNA-_zPNww" allowfullscreen=""></iframe></figure> <!-- /wp:html -->
+<!-- /wp:html -->
 
-<!-- wp:html --><figure>
+<!-- wp:html --><figure></figure>
 
-<iframe width="560" height="315" src="https://emb.d.tube/#!/kerianfiter/juebw7jtljz" allowfullscreen=""></iframe></figure> <!-- /wp:html -->
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 
-Learn about the Zettelkasten: 
+Learn about the Zettelkasten:
 
 <!-- /wp:paragraph -->
 

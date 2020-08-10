@@ -14,7 +14,7 @@ tags:
   - modeling
   - tutorial
 categories:
-  - Blog en
+  - Blog
 ---
 <!-- wp:heading -->
 

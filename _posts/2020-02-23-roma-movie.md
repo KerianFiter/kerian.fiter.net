@@ -11,7 +11,7 @@ tags:
   - movie
   - philosophy
 categories:
-  - Blog en
+  - Blog
 ---
 <!-- wp:paragraph -->
 

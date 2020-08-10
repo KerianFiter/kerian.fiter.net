@@ -25,7 +25,7 @@ Let me quickly summarize what I learned during this journey so that you can lear
 
 <!-- /wp:paragraph -->
 
-<!-- wp:uagb/table-of-contents {"block_id":"855bc555","classMigrate":true,"headerLinks":"[{\u0022tag\u0022:1,\u0022text\u0022:\u0022Choosing the tools\u0022,\u0022link\u0022:\u0022choosing-the-tools\u0022,\u0022content\u0022:\u0022Choosing the tools\u0022,\u0022level\u0022:0},{\u0022tag\u0022:1,\u0022text\u0022:\u0022Creating your system\u0022,\u0022link\u0022:\u0022creating-your-system\u0022,\u0022content\u0022:\u0022Creating your system\u0022,\u0022level\u0022:0},{\u0022tag\u0022:1,\u0022text\u0022:\u0022Conclusion\u0022,\u0022link\u0022:\u0022conclusion\u0022,\u0022content\u0022:\u0022Conclusion\u0022,\u0022level\u0022:0}]","customWidth":true} -->
+<!-- wp:uagb/table-of-contents {"block_id":"855bc555","classMigrate":true,"headerLinks":"[{u0022tagu0022:1,u0022textu0022:u0022Choosing the toolsu0022,u0022linku0022:u0022choosing-the-toolsu0022,u0022contentu0022:u0022Choosing the toolsu0022,u0022levelu0022:0},{u0022tagu0022:1,u0022textu0022:u0022Creating your systemu0022,u0022linku0022:u0022creating-your-systemu0022,u0022contentu0022:u0022Creating your systemu0022,u0022levelu0022:0},{u0022tagu0022:1,u0022textu0022:u0022Conclusionu0022,u0022linku0022:u0022conclusionu0022,u0022contentu0022:u0022Conclusionu0022,u0022levelu0022:0}]","customWidth":true} -->
 
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-undefined uagb-block-855bc555" data-scroll="true" data-offset="30" data-delay="800">
   <div class="uagb-toc__wrap">
@@ -74,19 +74,19 @@ I started out using <a rel="noreferrer noopener" href="https://notion.so" target
 
 <!-- wp:html -->
 
-<blockquote class="quoteback" darkmode="" data-title="Notion%20%E2%80%93%20The%20all-in-one%20workspace%20for%20your%20notes%2C%20tasks%2C%20wikis%2C%20and%20databases." data-author="@NotionHQ" cite="https://www.notion.so/">
+<blockquote class="quoteback" data-title="Notion%20%E2%80%93%20The%20all-in-one%20workspace%20for%20your%20notes%2C%20tasks%2C%20wikis%2C%20and%20databases." data-author="@NotionHQ" cite="https://www.notion.so/">
   <h1>
     All-in-one workspace
   </h1>
   
   <h2>
     Write, plan, collaborate, and get organized — all in one tool.
-  </h2><footer>@NotionHQ
+  </h2><footer>@NotionHQ 
   
   <cite> <a href="https://www.notion.so/">https://www.notion.so/</a></cite></footer>
 </blockquote>
 
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script> <!-- /wp:html -->
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 
@@ -155,19 +155,19 @@ What I ended up using is <a rel="noreferrer noopener" href="https://obsidian.md/
 
 <!-- wp:html -->
 
-<blockquote class="quoteback" darkmode="" data-title="Obsidian%3A%20A%20knowledge%20base%20that%20works%20on%20local%20Markdown%20files." data-author="@obsdmd" cite="https://obsidian.md/">
+<blockquote class="quoteback" data-title="Obsidian%3A%20A%20knowledge%20base%20that%20works%20on%20local%20Markdown%20files." data-author="@obsdmd" cite="https://obsidian.md/">
   <h1 class="hero-headline">
     A second brain,<br />for you, forever.
   </h1>
   
   <p>
     Obsidian is a powerful knowledge base that works on top of<br /> a local folder of plain text Markdown files.
-  </p><footer>@obsdmd
+  </p><footer>@obsdmd 
   
   <cite> <a href="https://obsidian.md/">https://obsidian.md/</a></cite></footer>
 </blockquote>
 
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script> <!-- /wp:html -->
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 
