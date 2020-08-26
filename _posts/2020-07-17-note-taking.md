@@ -247,6 +247,14 @@ Source: [Zettelkasten in Notion with Auto Footnote Backlinks - YouTube][1] by Dy
 
 <!-- /wp:paragraph -->
 
+<!-- wp:html -->
+
+<blockquote class="quoteback" darkmode="" data-title="Zettelkasten%20in%20Notion%20with%20Auto%20Footnote%20Backlinks%20-%20YouTube" data-author="Dylan Modell" cite="https://www.youtube.com/">
+  Notion is great for general note-taking and logging data about your life / team. But Obsidian is better for Zettels. I'm thinking about using Notion to collect notes and Obsidian to process them into permanent notes. <footer>Dylan Modell<cite> <a href="https://www.youtube.com/">https://www.youtube.com/</a></cite></footer>
+</blockquote>
+
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script> <!-- /wp:html -->
+
 <!-- wp:heading {"level":1} -->
 
 # Conclusion
