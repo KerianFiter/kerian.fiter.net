@@ -25,10 +25,6 @@ Let me quickly summarize what I learned during this journey so that you can lear
 
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":28} -->
-
-<!-- /wp:spacer -->
-
 <!-- wp:heading {"level":1} -->
 
 # Choosing the tools
