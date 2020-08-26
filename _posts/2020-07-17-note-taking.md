@@ -231,22 +231,6 @@ A comment of Dylan, on my <a rel="noreferrer noopener" href="https://www.youtube
 
 <!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-
-<blockquote class="wp-block-quote">
-  <p>
-    Notion is great for general note-taking and logging data about your life / team. But Obsidian is better for Zettels. I'm thinking about using Notion to collect notes and Obsidian to process them into permanent notes.
-  </p>
-</blockquote>
-
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-
-Source: [Zettelkasten in Notion with Auto Footnote Backlinks - YouTube][1] by Dylan Modell
-
-<!-- /wp:paragraph -->
-
 <!-- wp:html -->
 
 <blockquote class="quoteback" darkmode="" data-title="Zettelkasten%20in%20Notion%20with%20Auto%20Footnote%20Backlinks%20-%20YouTube" data-author="Dylan Modell" cite="https://www.youtube.com/">
@@ -278,5 +262,3 @@ Please, if you enjoyed what you read, leave a comment below and share it with pe
 Thank you for your time.
 
 <!-- /wp:paragraph -->
-
- [1]: https://www.youtube.com/
