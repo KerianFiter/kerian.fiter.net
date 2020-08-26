@@ -21,7 +21,7 @@ It works on local markdown files and is basically free.
 
 This is the tool I'm using to write in this wiki right now.
 
-It works well with [[notion]] as seen in [[2020-07-17-note-taking]].
+It works well with [[notion]] as seen in [Note-taking: In search of the optimal system](https://kerian.fiter.net/note-taking/).
 
  [1]: https://github.com/KerianFiter/kerian.fiter.net/blob/master/media/obsidian_banner.png?raw=true
  [2]: https://obsidian.md/
