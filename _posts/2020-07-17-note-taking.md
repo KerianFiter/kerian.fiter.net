@@ -25,38 +25,7 @@ Let me quickly summarize what I learned during this journey so that you can lear
 
 <!-- /wp:paragraph -->
 
-<!-- wp:uagb/table-of-contents {"block_id":"855bc555","classMigrate":true,"headerLinks":"[{u0022tagu0022:1,u0022textu0022:u0022Choosing the toolsu0022,u0022linku0022:u0022choosing-the-toolsu0022,u0022contentu0022:u0022Choosing the toolsu0022,u0022levelu0022:0},{u0022tagu0022:1,u0022textu0022:u0022Creating your systemu0022,u0022linku0022:u0022creating-your-systemu0022,u0022contentu0022:u0022Creating your systemu0022,u0022levelu0022:0},{u0022tagu0022:1,u0022textu0022:u0022Conclusionu0022,u0022linku0022:u0022conclusionu0022,u0022contentu0022:u0022Conclusionu0022,u0022levelu0022:0}]","customWidth":true} -->
-
-<div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-undefined uagb-block-855bc555" data-scroll="true" data-offset="30" data-delay="800">
-  <div class="uagb-toc__wrap">
-    <div class="uagb-toc__title-wrap">
-      <div class="uagb-toc__title">
-        Table Of Contents
-      </div>
-    </div>
-    
-    <div class="uagb-toc__list-wrap">
-      <ul class="uagb-toc__list">
-        <li>
-          <a href="#choosing-the-tools">Choosing the tools</a>
-        </li>
-        <li>
-          <a href="#creating-your-system">Creating your system</a>
-        </li>
-        <li>
-          <a href="#conclusion">Conclusion</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<!-- /wp:uagb/table-of-contents -->
-
 <!-- wp:spacer {"height":28} -->
-
-<div style="height:28px" aria-hidden="true" class="wp-block-spacer">
-</div>
 
 <!-- /wp:spacer -->
 
@@ -68,9 +37,25 @@ Let me quickly summarize what I learned during this journey so that you can lear
 
 <!-- wp:paragraph -->
 
-I started out using <a rel="noreferrer noopener" href="https://notion.so" target="_blank">Notion</a>, which has a great free plan and is growing rapidly.
+I started out using <a href="https://notion.so" target="_blank" rel="noreferrer noopener">Notion</a>, which has a great free plan and is growing rapidly.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+
+<blockquote class="quoteback" cite="https://www.notion.so/" data-title="Notion%20%E2%80%93%20The%20all-in-one%20workspace%20for%20your%20notes%2C%20tasks%2C%20wikis%2C%20and%20databases." data-author="@NotionHQ">
+  <h1>
+    All-in-one workspace
+  </h1>
+  
+  <h2>
+    Write, plan, collaborate, and get organized — all in one tool.
+  </h2><footer>@NotionHQ 
+  
+  <cite> <a href="https://www.notion.so/">https://www.notion.so/</a></cite></footer>
+</blockquote>
+
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 
@@ -83,7 +68,7 @@ Although I really liked it (and am still using it to this day), it obviously had
 *   I spent more time customizing than taking notes
 *   There is not yet (as of July 2020) an proper offline mode
 *   I had limited control over my data
-*   Does not have bi-directional linking (<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=-MNA-_zPNww" target="_blank">unless you do it in a clunky way</a>)
+*   Does not have bi-directional linking (<a href="https://www.youtube.com/watch?v=-MNA-_zPNww" target="_blank" rel="noreferrer noopener">unless you do it in a clunky way</a>)
 
 <!-- /wp:list -->
 
@@ -133,9 +118,25 @@ I then managed to try quite a few apps, that I will list here:
 
 <!-- wp:paragraph -->
 
-What I ended up using is <a rel="noreferrer noopener" href="https://obsidian.md/" target="_blank">Obsidian</a>.
+What I ended up using is <a href="https://obsidian.md/" target="_blank" rel="noreferrer noopener">Obsidian</a>.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+
+<blockquote class="quoteback" cite="https://obsidian.md/" data-title="Obsidian%3A%20A%20knowledge%20base%20that%20works%20on%20local%20Markdown%20files." data-author="@obsdmd">
+  <h1 class="hero-headline">
+    A second brain,<br />for you, forever.
+  </h1>
+  
+  <p>
+    Obsidian is a powerful knowledge base that works on top of<br />a local folder of plain text Markdown files.
+  </p><footer>@obsdmd 
+  
+  <cite> <a href="https://obsidian.md/">https://obsidian.md/</a></cite></footer>
+</blockquote>
+
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 
@@ -175,7 +176,7 @@ Now that I had found the right tools, I still had to choose a system to take not
 
 <!-- wp:paragraph -->
 
-When I started, I tried taking notes hierarchically with Notion. If you have read <a rel="noreferrer noopener" href="https://amzn.to/2zuZ2rt" target="_blank">How to Take Smart Notes</a>, you know it does not seem to be the right way to go, unless you want to build some sort of wiki. It is said to be better to start writing right away without worrying about the categories you want to put your note in. Then you add tags, links, … You can also read more thoroughly about it at <a href="https://zettelkasten.de/" target="_blank" rel="noreferrer noopener">https://zettelkasten.de/</a>.
+When I started, I tried taking notes hierarchically with Notion. If you have read <a href="https://amzn.to/2zuZ2rt" target="_blank" rel="noreferrer noopener">How to Take Smart Notes</a>, you know it does not seem to be the right way to go, unless you want to build some sort of wiki. It is said to be better to start writing right away without worrying about the categories you want to put your note in. Then you add tags, links, … You can also read more thoroughly about it at <a href="https://zettelkasten.de/" target="_blank" rel="noreferrer noopener">https://zettelkasten.de/</a>.
 
 <!-- /wp:paragraph -->
 
@@ -230,9 +231,17 @@ Now I tried using only Obsidian for note-taking, but what really worked for me w
 
 <!-- wp:paragraph -->
 
-A comment of Dylan, on my <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=-MNA-_zPNww" target="_blank">Zettelkasten in Notion with Auto Footnote Backlinks</a> video, sums it up very well:
+A comment of Dylan, on my <a href="https://www.youtube.com/watch?v=-MNA-_zPNww" target="_blank" rel="noreferrer noopener">Zettelkasten in Notion with Auto Footnote Backlinks</a> video, sums it up very well:
 
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+
+<blockquote class="quoteback" cite="https://www.youtube.com/watch?v=-MNA-_zPNww" data-title="Zettelkasten%20in%20Notion%20with%20Auto%20Footnote%20Backlinks%20-%20YouTube" data-author="Dylan Modell">
+  Notion is great for general note-taking and logging data about your life / team. But Obsidian is better for Zettels. I'm thinking about using Notion to collect notes and Obsidian to process them into permanent notes.<footer>Dylan Modell<cite> <a href="https://www.youtube.com/watch?v=-MNA-_zPNww">https://www.youtube.com/watch?v=-MNA-_zPNww/</a></cite></footer>
+</blockquote>
+
+<!-- /wp:html -->
 
 <!-- wp:heading {"level":1} -->
 
