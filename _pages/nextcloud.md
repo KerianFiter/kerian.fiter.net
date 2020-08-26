@@ -10,6 +10,9 @@ post_date: 2020-08-26 19:12:51
 tags:
   - '#self-hosted'
   - '#wiki'
+  - '#tool'
+  - '#cloud'
+  - '#open-source'
 categories: [ ]
 ---
 ![Imgur][1]
