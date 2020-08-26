@@ -227,17 +227,25 @@ Now I tried using only Obsidian for note-taking, but what really worked for me w
 
 <!-- wp:paragraph -->
 
-A comment of Dylan, on my <a href="https://www.youtube.com/watch?v=-MNA-_zPNww" target="_blank" rel="noreferrer noopener">Zettelkasten in Notion with Auto Footnote Backlinks</a> video, sums it up very well:
+A comment of Dylan, on my <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=-MNA-_zPNww" target="_blank">Zettelkasten in Notion with Auto Footnote Backlinks</a> video, sums it up very well:
 
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
+<!-- wp:quote -->
 
-<blockquote class="quoteback" cite="https://www.youtube.com/watch?v=-MNA-_zPNww" data-title="Zettelkasten%20in%20Notion%20with%20Auto%20Footnote%20Backlinks%20-%20YouTube" data-author="Dylan Modell">
-  Notion is great for general note-taking and logging data about your life / team. But Obsidian is better for Zettels. I'm thinking about using Notion to collect notes and Obsidian to process them into permanent notes.<footer>Dylan Modell<cite> <a href="https://www.youtube.com/watch?v=-MNA-_zPNww">https://www.youtube.com/watch?v=-MNA-_zPNww/</a></cite></footer>
+<blockquote class="wp-block-quote">
+  <p>
+    Notion is great for general note-taking and logging data about your life / team. But Obsidian is better for Zettels. I'm thinking about using Notion to collect notes and Obsidian to process them into permanent notes.
+  </p>
 </blockquote>
 
-<!-- /wp:html -->
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+
+Source: [Zettelkasten in Notion with Auto Footnote Backlinks - YouTube][1] by Dylan Modell
+
+<!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1} -->
 
@@ -262,3 +270,5 @@ Please, if you enjoyed what you read, leave a comment below and share it with pe
 Thank you for your time.
 
 <!-- /wp:paragraph -->
+
+ [1]: https://www.youtube.com/
