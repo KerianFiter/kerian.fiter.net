@@ -16,13 +16,13 @@ tags:
 categories:
   - Blog
 ---
-<!-- wp:html --><figure></figure>
+<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/embed/-MNA-_zPNww","type":"rich","providerNameSlug":"embed-handler","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --><figure class="wp-block-embed-youtube wp-block-embed is-type-rich is-provider-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<!-- /wp:html -->
+<div class="wp-block-embed__wrapper">
+  https://www.youtube.com/embed/-MNA-_zPNww
+</div></figure> 
 
-<!-- wp:html --><figure></figure>
-
-<!-- /wp:html -->
+<!-- /wp:core-embed/youtube -->
 
 <!-- wp:paragraph -->
 
